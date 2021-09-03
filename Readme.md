@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 ### Connect with me:
-[Twitter]
+<a href="https://twitter.com/Csengupta1101?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Csengupta1101</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[Twitter]
 [Linkedin]
 [Instagram]
 

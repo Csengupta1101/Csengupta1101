@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 ### Connect with me:
-<img align="left" alt="CSengupta1101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
+[twitter]
 [<img align="left" alt="CSengupta1101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CSengupta1101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can sleep with eyes wide open
 
-https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=Csengupta1101&show_icons=true&count_private=true
+https://github-readme-stats.vercel.app/api?username=Csengupta1101&theme=synthwave&show_icons=true&count_private=true
 
 ### Connect with me:
 

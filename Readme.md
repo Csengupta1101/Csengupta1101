@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<a href=”https://www.linkedin.com/in/chandan-sengupta-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/chandan-sengupta/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 

@@ -1,41 +1,13 @@
 ## Heyyo, I'm <a href="https://Chandan.me" target="_blank">Chandan</a>!
-(Use dark theme to find my socials ;)
 
-<a href="https://Chandan.me" target="_blank"><img align="left" alt="Chandan.me" width="22px" src="https://github.com/Csengupta1101/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/chandan-sengupta" target="_blank"><img align="left" alt="Chandan" | LinkedIn" width="22px" src="https://github.com/Csengupta1101/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/joy_110188" target="_blank"><img align="left" alt="Chandan Sengupta | Instagram" width="22px" src="https://github.com/Csengupta1101/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Csengupta1101https://www.w3.org/html/" target="_blank"><img align="left" alt="Chandan Sengupta | Twitter" width="22px" src="https://github.com/Csengupta1101/trying-repos/blob/master/twitter.svg" />
+[![Twitter Follow](https://img.shields.io/twitter/follow/CSengupta1101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCSengupta1101&screen_name=CSengupta1101)
 
+## I'm a Data Analyst, Guitarist, Reader, and Pink Floyd Lover!!
 
-<br />
-<br />
-<br />
-
-
-<br/>
-
-### Languages and Tools:
-
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Csengupta1101/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Csengupta1101/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Csengupta1101/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Csengupta1101/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-
-
-
-<br />
-<br />
-
----
-
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other data scientists
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I can sleep with eyes wide open
 
 
 ### Now Playing 🎧

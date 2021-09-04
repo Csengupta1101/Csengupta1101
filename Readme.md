@@ -9,11 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can sleep with eyes wide open
 
-<br>
-
-(https://github-readme-stats.vercel.app/api?username=Csengupta1101&theme=synthwave&show_icons=true&count_private=true “Andres’ GitHub Stats”)
-
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Csengupta1101&theme=synthwave “Andres’ Top Languages Card”)
 
 ### Connect with me:
 

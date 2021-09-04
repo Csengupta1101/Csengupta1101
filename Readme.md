@@ -13,9 +13,7 @@
 
 ### Connect with me:
 
-[twitter]
-[linkedin]
-[instagram]
+<a href=”https://www.linkedin.com/in/chandan-sengupta-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 

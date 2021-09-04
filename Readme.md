@@ -1,4 +1,4 @@
-## Heyyo, I'm <a href="https://Chandan.me" target="_blank">Chandan</a>!
+## Heyyo, I'm <a href="https://www.linkedin.com/in/chandan-sengupta/" target="_blank">Chandan</a>!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CSengupta1101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCSengupta1101&screen_name=CSengupta1101)
 

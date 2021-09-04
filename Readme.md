@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 
+<i class='icon-tech-python'></i>
 
 ### Connect with me:
 
-![https://www.linkedin.com/in/chandan-sengupta/](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 

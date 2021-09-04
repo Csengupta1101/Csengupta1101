@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 
-<i class='icon-tech-python'></i>
+<i class='icon-tech-python'> Python </i>
 
 ### Connect with me:
 

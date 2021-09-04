@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
-[twitter]
-[youtube]
-[instagram]
-[linkedin]
+[Twitter]
+[Youtube]
+[Instagram]
+[Linkedin]
 
 
 [twitter]: https://twitter.com/CSengupta1101

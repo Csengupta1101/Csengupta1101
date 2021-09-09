@@ -8,7 +8,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-32-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-In%20dia-success" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-brightgreen" />
 </p>
 

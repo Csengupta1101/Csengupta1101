@@ -1,4 +1,3 @@
-[![Social banner for Chandan](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://www.instagram.com/joy_110188/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Chandan

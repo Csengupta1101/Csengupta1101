@@ -30,20 +30,6 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 
-### Connect with me:
-
-[Twitter]
-[Youtube]
-[Instagram]
-[Linkedin]
-
-
-[twitter]: https://twitter.com/CSengupta1101
-[youtube]: https://www.youtube.com/channel/UCbBP_adt7j2PtaCtXX_JB0g
-[instagram]: https://www.instagram.com/joy_110188/
-[linkedin]: https://www.linkedin.com/in/chandan-sengupta/
-
-
 
 ### Now Playing 🎧
 

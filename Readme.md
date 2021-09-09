@@ -24,7 +24,7 @@
 
 
 
-## I'm a Data Analyst, Guitarist, Reader, and Pink Floyd Lover!!
+## I'm a Data Scientist, Guitarist, Reader, and Pink Floyd Lover!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other data scientists

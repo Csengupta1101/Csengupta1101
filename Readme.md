@@ -2,6 +2,16 @@
 <p align='center'>
 </p>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Csengupta1101&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-32-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Ind%20ia-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-brightgreen" />
+</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/CSengupta1101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCSengupta1101&screen_name=CSengupta1101)
 
 

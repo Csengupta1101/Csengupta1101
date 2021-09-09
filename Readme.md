@@ -1,4 +1,9 @@
-## Heyyo, I'm <a href="https://www.linkedin.com/in/chandan-sengupta/" target="_blank">Chandan</a>!
+[![Social banner for Chandan](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://www.instagram.com/joy_110188/)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Chandan.
+</p>
+<p align='center'>For enquiries, reach  over on <a href="https://twitter.com/CSengupta1101">Twitter</a>.</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CSengupta1101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCSengupta1101&screen_name=CSengupta1101)
 

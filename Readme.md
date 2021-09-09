@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<p align="left"> 
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Csengupta1101&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">

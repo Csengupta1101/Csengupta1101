@@ -32,7 +32,6 @@
 - ⚡ Fun fact: I can sleep with eyes wide open
 
 
-
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31awwzifvfwghp332zrenoo3c5bu)

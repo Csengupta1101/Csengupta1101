@@ -1,4 +1,3 @@
-# ![profile](https://github.com/Csengupta1101/Csengupta1101/blob/master/WhatsApp%20Image%202021-09-15%20at%2012.20.29.jpeg)
 <h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h1 align='center'> Hi! I'm Chandan :wave:</h1>
 <p align='center'>
@@ -33,7 +32,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can sleep with eyes wide open
 
-<br> 
+<br>
+# ![profile](https://github.com/Csengupta1101/Csengupta1101/blob/master/WhatsApp%20Image%202021-09-15%20at%2012.20.29.jpeg)
 
 ## 🛠 &nbsp;Tech Stack
 

@@ -26,14 +26,14 @@
 
 
 ## I'm a Data Scientist, Guitarist, Reader, and Pink Floyd Lover!!
-
+ 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other data scientists
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can sleep with eyes wide open
 
-<br>
-# ![profile](https://github.com/Csengupta1101/Csengupta1101/blob/master/WhatsApp%20Image%202021-09-15%20at%2012.20.29.jpeg)
+ <br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
